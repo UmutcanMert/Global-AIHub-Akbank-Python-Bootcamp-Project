@@ -90,10 +90,10 @@ d. According to the user input, run the relevant method of the “lib” object
 <hr>
 
 <img src="login.png" height="500"/>
-<img src="login_2.png"/>
-<img src="menu.png"/>
-<img src="list_books.png"/>
-<img src="add_book.png"/>
-<img src="remove_book.png"/>
+<img src="login_2.png" height="500"/>
+<img src="menu.png" height="500"/>
+<img src="list_books.png" height="500"/>
+<img src="add_book.png" height="500"/>
+<img src="remove_book.png" height="500"/>
 
 
