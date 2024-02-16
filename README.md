@@ -1,4 +1,4 @@
-##### Bu proje Global AI Hub Akbank Python Bootcamp kapsamında hazırlanmıştır. İstenilen temel özellikler aşağı belirtilmiştir.
+##### Bu proje Global AI Hub Akbank Python Bootcamp kapsamında hazırlanmıştır. İstenilen temel özellikler aşağıda belirtilmiştir.
 ##### Ek olarak;
 ##### GUI kullananarak ,kivy ile bir arayüz tasarlanmıştır. 
 ##### Validation kontrolleri yapılmıştır.   
