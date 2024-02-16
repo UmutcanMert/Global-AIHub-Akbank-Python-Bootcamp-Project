@@ -89,4 +89,4 @@ d. According to the user input, run the relevant method of the “lib” object
 
 <hr>
 
-<img src=  />
+<img src="login.png"/>
