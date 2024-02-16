@@ -88,12 +88,25 @@ c. Using if-elif-else statement check the user input.
 d. According to the user input, run the relevant method of the “lib” object
 
 <hr>
+<table>
+  <td>
+    <tr><img src="login.png" height="500"/></tr>
+    <tr><img src="login_2.png" height="500"/></tr>
+  </td>
+  
+  <td>
+    <tr><img src="menu.png" height="500"/></tr>
+    <tr><img src="list_books.png" height="500"/></tr>
+  </td>
+  
+  <td>
+    <tr><img src="add_book.png" height="500"/></tr>
+    <tr><img src="remove_book.png" height="500"/></tr>
+  </td>
+</table>
 
-<img src="login.png" height="500"/>
-<img src="login_2.png" height="500"/>
-<img src="menu.png" height="500"/>
-<img src="list_books.png" height="500"/>
-<img src="add_book.png" height="500"/>
-<img src="remove_book.png" height="500"/>
+
+
+
 
 
