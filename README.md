@@ -5,21 +5,23 @@
 ##### Quantity özelliği eklenmiştir.
 ##### Proje ile ilgili resimler aşağıda belirtilmiştir.
 
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-#### Library Management System
+###############################################################################################################################
+
+### Library Management System
 In this project you will be building “Library Management System” using object-oriented 
 programming techniques. This program will use books.txt file that you will create as a database 
 where each line will represent a single book. At each line, book name, author, release date 
 and number of pages will be kept and separated with a comma.
-1. Create a class named “Library”:
+##### 1. Create a class named “Library”:
 a. Create the constructer method to open the books.txt file, and destructor 
 method to close the file.
 Tip: If you open books.txt with “a+” mode, you can both read and append lines 
 to the file. And also, if books.txt is not created previously, this mode will create 
 the file.
-2. Add the following methods to library:
 
-a. List Books
+##### 2. Add the following methods to library:
+
+###### a. List Books
 
 This method will list all the books in the books.txt file.
 
@@ -31,7 +33,7 @@ iii. Now each element of the list holds information about a single book.
 
 Print book names and authors using this information.
 
-b. Add Book
+###### b. Add Book
 
 This method will add a book to a books.txt file.
 
@@ -43,7 +45,7 @@ author then comma etc.
 
 iii. Append this line to the file.
 
-c. Remove Book
+###### c. Remove Book
 This method will delete the book with the given title from the books.txt.
 
 i. Ask the user input for book title.
@@ -59,7 +61,7 @@ v. Remove the contents of the books.txt.
 
 vi. Add all elements of the list to the books.txt.
 
-2
+##### 2.
 
 * With this method you remove contents of the books.txt and rewrite 
 the new list. If you don’t remove the contents, it will add the same 
@@ -71,7 +73,7 @@ books again to the file.
 
 a. Print the following to the screen
 
-*** MENU***
+###### *** MENU***
 
 1) List Books
 
