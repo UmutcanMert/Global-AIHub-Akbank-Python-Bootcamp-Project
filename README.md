@@ -86,3 +86,7 @@ b. Ask user input for menu item and assign the input to a variable.
 c. Using if-elif-else statement check the user input.
 
 d. According to the user input, run the relevant method of the “lib” object
+
+<hr>
+
+<img src=  />
