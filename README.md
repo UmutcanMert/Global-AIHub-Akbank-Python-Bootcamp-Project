@@ -89,7 +89,7 @@ d. According to the user input, run the relevant method of the “lib” object
 
 <hr>
 
-<img src="login.png" width="200" height="1000"/>
+<img src="login.png" width="1000" height="100"/>
 <img src="login_2.png"/>
 <img src="menu.png"/>
 <img src="list_books.png"/>
