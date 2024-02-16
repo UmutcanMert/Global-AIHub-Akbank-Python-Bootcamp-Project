@@ -102,18 +102,18 @@ d. According to the user input, run the relevant method of the “lib” object
 <hr>
 <table>
   <tr>
-    <td><img src="login.png" height="500"/></td>
-    <td><img src="login_2.png" height="500"/></td>
+    <td><img src="login.png" /></td>
+    <td><img src="login_2.png" /></td>
   </tr>
   
   <tr>
-    <td><img src="menu.png" height="500"/></td>
-    <td><img src="list_books.png" height="500"/></td>
+    <td><img src="menu.png" /></td>
+    <td><img src="list_books.png" /></td>
   </tr>
   
   <tr>
-    <td><img src="add_book.png" height="500"/></td>
-    <td><img src="remove_book.png" height="500"/></td>
+    <td><img src="add_book.png" /></td>
+    <td><img src="remove_book.png" /></td>
   </tr>
 </table>
 
