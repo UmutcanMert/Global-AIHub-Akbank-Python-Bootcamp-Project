@@ -12,7 +12,7 @@ Kısaca şu işlemler yapılır:
 
 3-Menüde kitap listele, kitap ekle, kitap kaldır ve çıkış seçenekleri mevcuttur.
 
-4-Kitap eklerken kitap mevcutsa adedi artar aynı şekilde kaldırılırken adedi azalır.
+4-Kitap eklerken gerekli validation kontrolleri sağlandıktan sonra kitap mevcutsa adedi artar aynı şekilde kaldırılırken adedi azalır.
 
 ##### Proje ile ilgili resimler aşağıda belirtilmiştir.
 
