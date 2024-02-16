@@ -5,7 +5,7 @@
 ##### Quantity özelliği eklenmiştir.
 ##### Proje ile ilgili resimler aşağıda belirtilmiştir.
 
-###############################################################################################################################
+<hr>
 
 ### Library Management System
 In this project you will be building “Library Management System” using object-oriented 
