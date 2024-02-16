@@ -4,11 +4,23 @@
 ##### Validation kontrolleri yapılmıştır.   
 ##### Quantity özelliği eklenmiştir.
 
-Kısaca şu işlemler yapılır.
-1- Arayüz açılır ve login kısmından giriş yapmaya çalışılır.
-2- Login kısmı başarılı ise menüye gelinir.
-3- Menüde kitap listele, kitap ekle, kitap kaldır ve çıkış seçenekleri mevcuttur.
-4- Kitap eklerken kitap mevcutsa adedi artar aynı şekilde kaldırılırken adedi azalır.
+Kısaca şu işlemler yapılır:
+
+1
+-
+Arayüz açılır ve login kısmından giriş yapmaya çalışılır.
+
+2
+-
+Login kısmı başarılı ise menüye gelinir.
+
+3
+-
+Menüde kitap listele, kitap ekle, kitap kaldır ve çıkış seçenekleri mevcuttur.
+
+4
+-
+Kitap eklerken kitap mevcutsa adedi artar aynı şekilde kaldırılırken adedi azalır.
 
 ##### Proje ile ilgili resimler aşağıda belirtilmiştir.
 
